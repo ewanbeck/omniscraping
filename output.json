@@ -1,0 +1,1314 @@
+{
+  "OMP_ANTR": {
+    "CINEMA_ID": "OMP_ANTR",
+    "CINEMA_OPTION_ID": "antrim",
+    "CINEMA_NAME": "Antrim",
+    "MOVIES": [
+      {
+        "MOVIE_ID": "63094",
+        "MOVIE_NAME": "Ainbo: Spirit of the Amazon",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47542", "TIME": "13:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47546", "TIME": "13:50 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "123654",
+        "MOVIE_NAME": "Around the World in 80 Days",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47378", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47570", "TIME": "14:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47569", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47575", "TIME": "14:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47574", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47579", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47584", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47589", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47594", "TIME": "16:20 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "52234",
+        "MOVIE_NAME": "Candyman",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47350", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47357", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47478", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47477", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47482", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47481", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47486",
+                "TIME": "18:50 (2D - Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "47485", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47490", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47489", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47494", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47493", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47498", "TIME": "18:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47497", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "62511EN",
+        "MOVIE_NAME": "Cliff Richard: The Great 80 Tour - Encore Screening",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-10-31",
+            "DATE": "Sunday 31st October 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "45933",
+                "TIME": "14:30 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "62511",
+        "MOVIE_NAME": "Cliff Richard: The Great 80 Tour - Live",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-10-27",
+            "DATE": "Wednesday 27th October 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "45932",
+                "TIME": "19:45 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "55953",
+        "MOVIE_NAME": "Croods: A New Age, The",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47518", "TIME": "12:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47519", "TIME": "14:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47522", "TIME": "12:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47523", "TIME": "14:50 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "54218",
+        "MOVIE_NAME": "Free Guy",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47392", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47394", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47393", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47476", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47521", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47455", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47480", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47525", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47459", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47484", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47529", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47463", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47488", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47533", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47467", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47492", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47537", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47471", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47496", "TIME": "16:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47541", "TIME": "17:10 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47475", "TIME": "19:30 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      { "MOVIE_ID": "54222", "MOVIE_NAME": "Jungle Cruise", "DATES": [] },
+      {
+        "MOVIE_ID": "62466",
+        "MOVIE_NAME": "Moonbound",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47454",
+                "TIME": "12:00 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "63152",
+        "MOVIE_NAME": "Night House, The",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47365", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47500", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47503", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47506", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47509", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47512", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      { "MOVIE_ID": "55012", "MOVIE_NAME": "Our Ladies", "DATES": [] },
+      {
+        "MOVIE_ID": "61526",
+        "MOVIE_NAME": "Paw Patrol: The Movie",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47389", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47566",
+                "TIME": "12:00 (2D - Sensory & Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "47453", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47452", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47571",
+                "TIME": "12:00 (2D - Sensory & Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "47457", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47456", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47460", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47464", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47468", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47472", "TIME": "16:40 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "53249",
+        "MOVIE_NAME": "Peter Rabbit 2",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47479",
+                "TIME": "12:10 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "47483",
+                "TIME": "12:10 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "60347",
+        "MOVIE_NAME": "Shang Chi And The Legend Of The Ten Rings",
+        "DATES": []
+      },
+      {
+        "MOVIE_ID": "60349",
+        "MOVIE_NAME": "Space Jam: A New Legacy",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47395", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47543", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47547", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47555", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47559", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47563", "TIME": "15:50 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "57314",
+        "MOVIE_NAME": "Suicide Squad, The",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47367", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47524", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47528", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47532", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47536", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47540", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "63254",
+        "MOVIE_NAME": "Wildfire",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47396", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47397", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47544", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47545", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47548", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47549", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47552", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47553", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47556", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47557", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "47560", "TIME": "18:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "47561", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      }
+    ]
+  },
+  "OMP_LISB": {
+    "CINEMA_ID": "OMP_LISB",
+    "CINEMA_OPTION_ID": "lisburn",
+    "CINEMA_NAME": "Lisburn",
+    "MOVIES": [
+      {
+        "MOVIE_ID": "63094",
+        "MOVIE_NAME": "Ainbo: Spirit of the Amazon",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72800", "TIME": "11:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72799", "TIME": "13:30 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72837", "TIME": "11:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72838", "TIME": "13:30 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "123654",
+        "MOVIE_NAME": "Around the World in 80 Days",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72802", "TIME": "12:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72781", "TIME": "14:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      { "MOVIE_ID": "52236", "MOVIE_NAME": "Black Widow", "DATES": [] },
+      {
+        "MOVIE_ID": "52234",
+        "MOVIE_NAME": "Candyman",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72767", "TIME": "18:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72766", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72831", "TIME": "18:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72832", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72877",
+                "TIME": "18:20 (2D - Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "72876", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72914", "TIME": "18:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72913", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72951", "TIME": "18:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72950", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72988", "TIME": "18:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72987", "TIME": "20:50 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "62511EN",
+        "MOVIE_NAME": "Cliff Richard: The Great 80 Tour - Encore Screening",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-10-31",
+            "DATE": "Sunday 31st October 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "70754",
+                "TIME": "14:30 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "62511",
+        "MOVIE_NAME": "Cliff Richard: The Great 80 Tour - Live",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-10-27",
+            "DATE": "Wednesday 27th October 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "70753",
+                "TIME": "19:45 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "55953",
+        "MOVIE_NAME": "Croods: A New Age, The",
+        "DATES": []
+      },
+      {
+        "MOVIE_ID": "60353",
+        "MOVIE_NAME": "Don't Breathe 2",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72805", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72806", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72855", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72893", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72930", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72967", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "73004", "TIME": "21:10 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "54218",
+        "MOVIE_NAME": "Free Guy",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72749", "TIME": "13:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72723", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72750", "TIME": "16:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72724", "TIME": "17:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72751", "TIME": "19:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72725", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72791", "TIME": "13:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72763", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72790", "TIME": "16:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72765", "TIME": "17:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72789", "TIME": "19:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72764", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72859", "TIME": "13:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72827", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72860", "TIME": "16:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72825", "TIME": "17:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72861", "TIME": "19:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72826", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72898", "TIME": "13:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72875", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72897", "TIME": "16:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72874", "TIME": "17:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72896", "TIME": "19:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72873", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72935", "TIME": "13:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72912", "TIME": "14:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72934", "TIME": "16:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72911", "TIME": "17:20 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72933", "TIME": "19:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72910", "TIME": "20:20 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      { "MOVIE_ID": "63346", "MOVIE_NAME": "Here Today", "DATES": [] },
+      { "MOVIE_ID": "54222", "MOVIE_NAME": "Jungle Cruise", "DATES": [] },
+      {
+        "MOVIE_ID": "62466",
+        "MOVIE_NAME": "Moonbound",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72801",
+                "TIME": "12:20 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      { "MOVIE_ID": "63152", "MOVIE_NAME": "Night House, The", "DATES": [] },
+      {
+        "MOVIE_ID": "63154",
+        "MOVIE_NAME": "Oasis Knebworth 1996",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-23",
+            "DATE": "Thursday 23rd September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "71487",
+                "TIME": "20:00 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-24",
+            "DATE": "Friday 24th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "71488",
+                "TIME": "20:00 (2D - Live)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "55012",
+        "MOVIE_NAME": "Our Ladies",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72757", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72854", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72892", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72929", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72966", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "73003", "TIME": "18:40 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "61526",
+        "MOVIE_NAME": "Paw Patrol: The Movie",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72726", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72727", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72795",
+                "TIME": "11:20 (2D - Sensory & Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "72796", "TIME": "11:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72769", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72768", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72817",
+                "TIME": "11:20 (2D - Sensory & Subtitled)",
+                "SCREEN": {}
+              },
+              { "TIME_VALUE": "72828", "TIME": "11:40 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72829", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72830", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72916", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72915", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72953", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72952", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72990", "TIME": "13:50 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72989", "TIME": "16:10 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "53249",
+        "MOVIE_NAME": "Peter Rabbit 2",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72797",
+                "TIME": "11:50 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              {
+                "TIME_VALUE": "72824",
+                "TIME": "11:50 (2D - Kids Club)",
+                "SCREEN": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "63372",
+        "MOVIE_NAME": "Rise of the Footsoldier: Origins",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72738", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72845", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72885", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72959", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72996", "TIME": "20:40 (2D)", "SCREEN": {} }
+            ]
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "60347",
+        "MOVIE_NAME": "Shang Chi And The Legend Of The Ten Rings",
+        "DATES": [
+          {
+            "DATE_VALUE": "2021-09-03",
+            "DATE": "Friday 3rd September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72688", "TIME": "14:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72714", "TIME": "14:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72717", "TIME": "15:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72712", "TIME": "16:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72689", "TIME": "17:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72715", "TIME": "17:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72718", "TIME": "18:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72713", "TIME": "19:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72690", "TIME": "20:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72716", "TIME": "20:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72719", "TIME": "21:00 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-04",
+            "DATE": "Saturday 4th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-05",
+            "DATE": "Sunday 5th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72793", "TIME": "12:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72792", "TIME": "13:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72691", "TIME": "14:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72754", "TIME": "14:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72762", "TIME": "15:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72752", "TIME": "16:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72692", "TIME": "17:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72756", "TIME": "17:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72761", "TIME": "18:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72753", "TIME": "19:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72693", "TIME": "20:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72755", "TIME": "20:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72760", "TIME": "21:00 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-06",
+            "DATE": "Monday 6th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72820", "TIME": "12:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72809", "TIME": "13:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72694", "TIME": "14:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72815", "TIME": "14:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72821", "TIME": "15:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72811", "TIME": "16:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72695", "TIME": "17:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72813", "TIME": "17:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72822", "TIME": "18:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72810", "TIME": "19:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72696", "TIME": "20:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72814", "TIME": "20:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72823", "TIME": "21:00 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-07",
+            "DATE": "Tuesday 7th September 2021",
+            "TIMES": [
+              { "TIME_VALUE": "72697", "TIME": "14:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72866", "TIME": "14:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72872", "TIME": "15:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72863", "TIME": "16:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72698", "TIME": "17:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72865", "TIME": "17:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72871", "TIME": "18:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72862", "TIME": "19:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72699", "TIME": "20:00 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72864", "TIME": "20:30 (2D)", "SCREEN": {} },
+              { "TIME_VALUE": "72870", "TIME": "21:00 (2D)", "SCREEN": {} }
+            ]
+          },
+          {
+            "DATE_VALUE": "2021-09-08",
+            "DATE": "Wednesday 8th September 2021",
+            "TIMES": []
+          },
+          {
+            "DATE_VALUE": "2021-09-09",
+            "DATE": "Thursday 9th September 2021",
+            "TIMES": []
+          }
+        ]
+      },
+      {
+        "MOVIE_ID": "63087",
+        "MOVIE_NAME": "Snake Eyes: G.I. Joe Origins",
+        "DATES": []
+      },
+      {
+        "MOVIE_ID": "60349",
+        "MOVIE_NAME": "Space Jam: A New Legacy",
+        "DATES": []
+      },
+      { "MOVIE_ID": "60504", "MOVIE_NAME": "Spirit Untamed", "DATES": [] },
+      { "MOVIE_ID": "57314", "MOVIE_NAME": "Suicide Squad, The", "DATES": [] },
+      { "MOVIE_ID": "58929", "MOVIE_NAME": "Tom and Jerry", "DATES": [] },
+      { "MOVIE_ID": "63254", "MOVIE_NAME": "Wildfire", "DATES": [] }
+    ]
+  }
+}
